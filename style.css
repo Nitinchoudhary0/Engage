@@ -10,6 +10,12 @@
     background-size: cover;
     position: relative;
 }
+#navbar_container h6
+{
+    font-size: 20px;
+    display: inline;
+    margin: 0px;
+}
 
 .starting
 {
@@ -64,10 +70,11 @@
 .synergize h4
 {
     font-size: 20px;
+    margin: 15px;
 }
 .synergize img
 {
-    height: 4vh;
+    height: 40px;
 }
 #navbar
 {
@@ -256,7 +263,7 @@
 }
 .sanity_check img
 {
-    height: 4vh;
+    height: 40px;
 }
 .sanity_check button
 {
@@ -293,7 +300,7 @@
 }
 #dev_contact img
 {
-    height: 4vh;
+    height: 40px;
 }
 #dev_contact p
 {
