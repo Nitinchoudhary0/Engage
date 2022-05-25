@@ -216,17 +216,17 @@
 }
 .photo_container.one
 {
-    background:url('/assets/pexels-tobias-bjørkli-1938349.jpg') no-repeat center;
+    background:url('./assets/pexels-tobias-bjørkli-1938349.jpg') no-repeat center;
     background-size: cover;
 }
 .photo_container.two
 {
-    background:url('/assets/pexels-victor-448835.jpg') no-repeat center;
+    background:url('./assets/pexels-victor-448835.jpg') no-repeat center;
     background-size: cover;
 }
 .photo_container.three
 {
-    background:url('/assets/pexels-vishnu-r-nair-1105666.jpg') no-repeat center;
+    background:url('./assets/pexels-vishnu-r-nair-1105666.jpg') no-repeat center;
     background-size: cover;
 }
 .photo_container
